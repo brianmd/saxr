@@ -1,3 +1,4 @@
+[![Build Status](https://api.travis-ci.org/brianmd/saxr.png?branch=master)](https://travis-ci.org/brianmd/saxr) [![Gem Version](https://badge.fury.io/rb/saxr.png)](http://badge.fury.io/rb/saxr) [![Coverage Status](https://coveralls.io/repos/brianmd/saxr/badge.png?branch=master&service=github)](https://coveralls.io/github/brianmd/saxr?branch=master)
 # Saxr
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/saxr`. To experiment with that code, run `bin/console` for an interactive prompt.
