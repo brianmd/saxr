@@ -2,4 +2,10 @@
   <b>
     hello world
   </b>
+  <cs>
+    <c1 />
+    <c2 c2="abc" y="4">
+      i r c2
+    </c2>
+  </cs>
 </a>
